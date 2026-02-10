@@ -1,8 +1,6 @@
 
-<a href="https://ibb.co/pjdbY5pX">
-    <img src="https://ibb.co/pjdbY5pX"  height="100" />
-</a>
-
+### Author
+Dhaval Solanki
 ======================
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bottelet//Run%20tests?style=for-the-badge)
@@ -54,8 +52,3 @@ All tests should pass on Github actions, or the failed test should be rewritten 
 You can help to translate  into other languages by copying the resources/lang/en folder into, for example, resources/lang/de and translate the file found inside the folder.
 
 
-### Licenses
- from version 2.0.0 and up is open-sourced software licensed under the [GNU GPLv3](https://opensource.org/licenses/GPL-3.0)...
-[FAQ GPL](https://www.gnu.org/licenses/gpl-faq.html#DoesFreeSoftwareMeanUsingTheGPL)
-
- under and not included version 2.0.0 is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT)
