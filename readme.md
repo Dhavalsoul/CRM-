@@ -32,16 +32,6 @@ And i will keep creating new features, releases, keep support running, and fix i
 - Upload documents, and keep track of client documents
 - And many more, for more detailed features overview go to .com/pricing
 
-### Get started
-
-For help on getting started, take a look at the wiki.
-
-* [Installation](https://github.com/Bottelet//wiki/Install)
-* [Installation with Docker](https://github.com/Bottelet//wiki/Install-using-Docker)
-* [Insertion of dummy data](https://github.com/Bottelet//wiki/Insertion-of-dummy-data)
-
-### Feedback
-Feel free to send us feedback on [Twitter](https://twitter.com/Cbottelet) or [file an issue](https://github.com/bottelet//issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the guidelines!
 
 ### Contribution Guide
  follows [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) coding standard.
